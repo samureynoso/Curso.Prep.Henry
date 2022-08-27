@@ -247,7 +247,7 @@ function breakStatement(numero) {
   // Tu código:
   var cant = 0
   array = []
-  for (var i = 1; i <= 10; i++){
+  for (var i = 1 ; i <= 10; i++){
     numero = numero + 2;
     cant = i;
     array.push(numero)
